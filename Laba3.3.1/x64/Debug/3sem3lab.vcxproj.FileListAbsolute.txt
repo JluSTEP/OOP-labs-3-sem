@@ -1,0 +1,4 @@
+D:\program\оопп\3sem3lab\x64\Debug\3sem3lab.exe
+D:\programming\c++\3semOOP\3sem3lab\x64\Debug\3sem3lab.exe
+C:\Users\sasbo\OneDrive\Рабочий стол\All\labs\oop\Лабы\3sem3lab\3sem3lab\x64\Debug\3sem3lab.exe
+D:\programming\c++\3sem3lab\x64\Debug\3sem3lab.exe
