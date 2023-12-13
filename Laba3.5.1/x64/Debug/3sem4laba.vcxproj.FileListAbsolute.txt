@@ -1,0 +1,2 @@
+D:\program\оопп\3sem4laba\x64\Debug\3sem4laba.exe
+D:\programming\c++\3sem4laba\x64\Debug\3sem4laba.exe
