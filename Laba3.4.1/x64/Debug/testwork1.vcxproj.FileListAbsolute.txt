@@ -1,0 +1,3 @@
+D:\program\оопп\testwork1\x64\Debug\testwork1.exe
+C:\Users\adolf\OneDrive\Рабочий стол\testwork1\x64\Debug\testwork1.exe
+C:\Users\sasbo\OneDrive\Рабочий стол\testwork1\x64\Debug\testwork1.exe
