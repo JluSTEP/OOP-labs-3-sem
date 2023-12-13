@@ -1,0 +1,3 @@
+﻿  ConsoleApplication8.cpp
+D:\program\оопп\ConsoleApplication8\ConsoleApplication8.cpp(65,26): warning C4101: ex: неиспользованная локальная переменная
+  ConsoleApplication8.vcxproj -> D:\program\оопп\ConsoleApplication8\x64\Debug\ConsoleApplication8.exe
